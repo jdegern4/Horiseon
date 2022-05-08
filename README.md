@@ -1,5 +1,7 @@
 # Horiseon
 
+![](./assets/images/horiseon-screenshot.PNG)
+
 ## Description
 
 Horiseon is a digital marketing consulting company that helps their clients grow their customer bases more efficiently in the digital realm. This is their website where they advertise their services.
